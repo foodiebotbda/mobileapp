@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cobak</string>
+    <string name="masukkan_pesan_disini">masukkan_pesan_disini</string>
+    <string name="kirim">kirim</string>
+    <string name="kirim2">Kirim</string>
+    <string name="masukkan_pesan_anda2">Masukkan pesan Anda</string>
+    <string name="kirim3">Kirim</string>
+    <string name="pesan_anda3">Pesan Anda</string>
+    <string name="masukkan_pesan_anda3">Masukkan pesan Anda:</string>
+</resources>
